@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Add your styles below */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
